@@ -1,0 +1,7 @@
+C:\Users\paulz\Desktop\STUDIUM\4. Semester\Programmierung III\Praktikum 11\Dining Philosophers\Dining Philosophers\bin\Debug\Dining Philosophers.exe.config
+C:\Users\paulz\Desktop\STUDIUM\4. Semester\Programmierung III\Praktikum 11\Dining Philosophers\Dining Philosophers\bin\Debug\Dining Philosophers.exe
+C:\Users\paulz\Desktop\STUDIUM\4. Semester\Programmierung III\Praktikum 11\Dining Philosophers\Dining Philosophers\bin\Debug\Dining Philosophers.pdb
+C:\Users\paulz\Desktop\STUDIUM\4. Semester\Programmierung III\Praktikum 11\Dining Philosophers\Dining Philosophers\obj\Debug\Dining Philosophers.csprojResolveAssemblyReference.cache
+C:\Users\paulz\Desktop\STUDIUM\4. Semester\Programmierung III\Praktikum 11\Dining Philosophers\Dining Philosophers\obj\Debug\Dining Philosophers.csproj.CoreCompileInputs.cache
+C:\Users\paulz\Desktop\STUDIUM\4. Semester\Programmierung III\Praktikum 11\Dining Philosophers\Dining Philosophers\obj\Debug\Dining Philosophers.exe
+C:\Users\paulz\Desktop\STUDIUM\4. Semester\Programmierung III\Praktikum 11\Dining Philosophers\Dining Philosophers\obj\Debug\Dining Philosophers.pdb
